@@ -1,5 +1,6 @@
 //ルール１　　全てのデータ受け渡しはJSON構造（Object)で行う
 //ルール２
+//
 
 /**
  * @typedef {Object} Gamedata
